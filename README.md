@@ -53,4 +53,4 @@ I would like to acknowledge the following resources and references that helped i
 
 - [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MDN Web Docs: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- [FreeCodeCamp: Course on Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [FreeCodeCamp: CSS Flexbox Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
